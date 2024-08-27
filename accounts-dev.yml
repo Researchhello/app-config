@@ -4,7 +4,7 @@
   #  activate:
    #   on-profile: "dev"
 app-custom:
-  zone: CN-Dev-github
+  zone: CN-Develop-github
   country: "{cipher}f293212862a6f845c5ef2e6f6849027c27e5c2d61f0598152ea1048354fcc8a0"
   language: French
 
