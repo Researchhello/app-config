@@ -4,7 +4,7 @@ app-custom:
   language: French
 
 customer:
-  message: "Welcome to prod API"
+  message: "Welcome to production API"
   accountDetails:
     name: "Mani"
     email: "mani-prod@gmail.com"
