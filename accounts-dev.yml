@@ -1,0 +1,18 @@
+# Below details are required if we host this in the individual app
+#spring:
+ # config:
+  #  activate:
+   #   on-profile: "dev"
+app-custom:
+  zone: CN-Dev-File
+  country: Canada
+  language: French
+
+customer:
+  message: "Welcome to dev API"
+  accountDetails:
+    name: "Mani"
+    email: "mani-dev@gmail.com"
+  support:
+    - 123 432 4321
+    - 222 111 1234

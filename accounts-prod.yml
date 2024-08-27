@@ -1,0 +1,13 @@
+app-custom:
+  zone: CN-prod-file
+  country: Canada
+  language: French
+
+customer:
+  message: "Welcome to prod API"
+  accountDetails:
+    name: "Mani"
+    email: "mani-prod@gmail.com"
+  support:
+    - 123 432 4321
+    - 222 111 1234
