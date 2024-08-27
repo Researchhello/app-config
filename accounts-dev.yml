@@ -4,7 +4,7 @@
   #  activate:
    #   on-profile: "dev"
 app-custom:
-  zone: CN-Dev-File
+  zone: CN-Dev-github
   country: Canada
   language: French
 
