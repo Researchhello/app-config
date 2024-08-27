@@ -1,6 +1,6 @@
 app-custom:
   zone: CN-prod-github
-  country: Canada
+  country: "339eb62b724ac2df290c8d78b37e6ff8921c80d9986c09bb3ead62e41e687d68"
   language: French
 
 customer:
