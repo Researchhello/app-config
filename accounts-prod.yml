@@ -1,5 +1,5 @@
 app-custom:
-  zone: CN-prod-file
+  zone: CN-prod-github
   country: Canada
   language: French
 
