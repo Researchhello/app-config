@@ -4,7 +4,7 @@ app-custom:
   language: French
 
 customer:
-  message: "Welcome to production final v2 API"
+  message: "Welcome to production final v3 API"
   accountDetails:
     name: "Mani"
     email: "mani-prod@gmail.com"
